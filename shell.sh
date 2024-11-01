@@ -10,4 +10,5 @@ echo ""
 echo "Welcome to the world of Shell Scripting!"
 echo "I made some changes to see script is working"
 echo "for DEV"
+echo "am just playing"
 
