@@ -8,4 +8,6 @@ echo "HH   HH  EE      LL      LL    OO     OO      WW  WW   OO     OO RR  RR   
 echo "HH   HH  EEEEE  LLLLLL  LLLLLL   OO OOO       WW WW      OO OOO  RR    RR   LLLLLL   DDD   !!"
 echo ""
 echo "Welcome to the world of Shell Scripting!"
+echo "I made some changes to see script is working"
 echo "for DEV"
+
