@@ -9,5 +9,10 @@ echo "HH   HH  EEEEE  LLLLLL  LLLLLL   OO OOO       WW WW      OO OOO  RR    RR 
 echo ""
 echo "Welcome to the world of Shell Scripting!"
 echo "I made some changes to see script is working"
+
 echo "going deep"
+
+echo "for DEV"
+echo "am just playing"
+
 
